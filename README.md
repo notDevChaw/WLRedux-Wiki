@@ -2,7 +2,7 @@
 ![wl_logo_ca](https://github.com/notDevChaw/warlordsredux.altis/assets/151213509/8bbea1bd-d88c-4487-abd4-cf432d660af1)
 
 
-# Welcome to the Warlords Redux Wiki
+## Welcome to the Warlords Redux Wiki
 Warlords Redux is a community upgrade project for the [Original Warlords](https://steamcommunity.com/sharedfiles/filedetails/?id=462357997) by [Jezuro](https://twitter.com/JosefZemanek1). The project's goal is to improve BI's vision of warlords with thousands of bug fixes and new features for a more balanced user experience while staying compatible with official servers for player numbers up to 100.
 
 ## What is Warlords?
