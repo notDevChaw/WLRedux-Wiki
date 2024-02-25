@@ -1,6 +1,61 @@
 Menu (<a href="{{ site.github.repository_url }}/edit/{{site.git_branch | escape}}/_includes/sidebar.html">Edit</a>):
 
-<ul>
-  <li><a href="{{ '/' | relative_url }}">Home</a></li>
-  <li><a href="{{ '/table-of-content' | relative_url }}">Table of Content</a></li>
-</ul>
+<ol>
+  <li><a href="{{ '/Home' | relative_url }}">Home</a></li>
+  <li>
+    <a href="{{ '/Getting-Started' | relative_url }}">Getting Started</a>
+    <ul>
+      <li>
+        <a href="{{ '/table-of-content' | relative_url }}#section1">For Players</a>
+      </li>
+      <li>
+        <a href="{{ '/table-of-content' | relative_url }}#section2">For Server Owners</a>
+      </li>
+      <li>
+        <a href="{{ '/table-of-content' | relative_url }}#section2">For Developers</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="{{ '/Getting-Started' | relative_url }}">Development</a>
+    <ul>
+      <li>
+        <a href="{{ '/table-of-content' | relative_url }}#section3">Changelog</a>
+      </li>
+      <li>
+        <a href="{{ '/table-of-content' | relative_url }}#section4">Features</a>
+      </li>
+      <li>
+        <a href="{{ '/table-of-content' | relative_url }}#section4">Functions</a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <a href="{{ '/Getting-Started' | relative_url }}">Community</a>
+    <ul>
+      <li>
+        <a href="{{ '/table-of-content' | relative_url }}#section6">Server List</a>
+      </li>
+      <li>
+        <a href="{{ '/table-of-content' | relative_url }}#section5">Discord</a>
+      </li>
+      <li>
+        <a href="{{ '/table-of-content' | relative_url }}#section7">Social Media</a>
+      </li>
+    </ul>
+  </li>
+
+  <li><a href="{{ '/Getting-Started' | relative_url }}">Credits</a></li>
+  <li>
+    <a href="{{ '/Getting-Started' | relative_url }}">Bug Reporting</a>
+    <ul>
+      <li>
+        <a href="{{ '/table-of-content' | relative_url }}#section6">Feature Requesting</a>
+      </li>
+      <li>
+        <a href="{{ '/table-of-content' | relative_url }}#section5">FAQ</a>
+      </li>
+    </ul>
+  </li>
+</ol>
