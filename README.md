@@ -1,5 +1,5 @@
 # Home
-![wl_logo_ca](https://github.com/notDevChaw/warlordsredux.altis/assets/151213509/8bbea1bd-d88c-4487-abd4-cf432d660af1)
+![wl_logo_ca](./assets/logoi.png)
 
 
 ## Welcome to the Warlords Redux Wiki
